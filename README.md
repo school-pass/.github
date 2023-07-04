@@ -40,45 +40,49 @@
 #### 유저 테이블
 | Field | data type | explanation | properties |
 | ---------- | -------- | --------------- | -------- |
-| userId | INT Autoincrement | 사용자 아이디 | NN |
+| userId | BIGNT Autoincrement | 사용자 아이디 | NN |
 | grade | INT | 학년 | N |
 | class | INT | 반 | N |
 | number | INT | 번호 | N |
-| name | VARCHAR(10) | 이름 | NN |
-| phone | VARCHAR(11) | 유저 전화번호 | NN |
-| account | VARCHAR(30) | 계정 아이디 | NN |
-| password | CHAR(64) | 비밀번호 | NN |
-| position | TINYINT | 역할을 숫자로 나누어 중,고등학생과 중,고등 교사를 구분 | NN |
-| salt | VARCHAR(10) | 입력된 비밀번호와 함께 HASH함수에 넣어 주는 값 | NN |
-#### 상벌점 테이블
+| name | VARCHAR | 이름 | NN |
+| account | VARCHAR | 계정 아이디 | NN |
+| password | VARCHAR | 비밀번호 | NN |
+#### 출입증 테이블
 | Field | data type | explanation | properties |
 | ---------- | -------- | --------------- | -------- |
-| pointId | INT Autoincrement | 상벌점 아이디 | NN |
-| userId | INT | 사용자 아이디 | NN |
-| regulateId | INT | 규정 아이디 | NN |
-| reason | VARCHAR | 세부 사항 | N |
-| issuer | VARCHAR | 발급자 | NN |
+| passId | BIGINT Autoincrement | 출입증 아이디 | NN |
+| userId | BIGINT | 사용자 아이디 | NN |
+| placeId | BIGINT | 장소 아이디 | NN |
+| teacherId | BIGINT | 교사 아이디 | NN |
+| startPeriod | INT | 시작시간 | NN |
+| endPeriod | INT | 종료시간 | N |
+| passReason | VARCHAR | 신청사유 | N |
+| passStatus | VARCHAR | 출입증상태 | NN |
 | created | DATE | 생성날짜 | NN |
 | updated | DATE | 수정날짜 | N |
-#### 규정 테이블
+#### 장소 테이블
 | Field | data type | explanation | properties |
 | ---------- | -------- | --------------- | -------- |
-| regulateId | INT | 규정 아이디 | NN |
-| checked | TINYINT | 상/벌점 구분 | NN |
-| regulate | VARCHAR | 규정 내용 | NN |
-| score | INT | 점수 | NN |
-#### 보호자 테이블
+| placeId | BIGINT | 규정 아이디 | NN |
+| teacherId | BIGINT | 교사 아이디 | NN |
+| floor | INT | 층수 | NN |
+| capacity | INT | 현재 인원 | N |
+| maxCapacity | INT | 최대 인원 | NN |
+| ipAddress | VARCHAR | IP주소 | NN |
+| location | VARCHAR | 위치 | NN |
+| locationDetail | VARCHAR | 상세위치 | N |
+#### 교사 테이블
 | Field | data type | explanation | properties |
 | ---------- | -------- | --------------- | -------- |
-| parentsId | INT Autoincrement | 학부모 아이디 | NN |
-| userId | INT | 자녀 아이디 | NN |
-| phone | VARCHAR(11) | 전화번호 | NN |
-#### 파일 테이블
+| teacherId | BIGINT Autoincrement | 교사 아이디 | NN |
+| userId | BIGINT | 사용자 아이디 | NN |
+| tPermission | VARCHAR | 정/부 교사 구분 | NN |
+#### 권한 테이블
 | Field | data type | explanation | properties |
 | ---------- | -------- | --------------- | -------- |
-| filename | VARCHAR(20) | 파일명 | NN |
-| datatype | BOOLEAN | 데이터타입 | NN |
-| created | DATE | 만들어진 시각 | NN |
+| authorityId | BIGINT | 권한 아이디 | NN |
+| name | VARCHAR | 부여한 권한 이름 | NN |
+| member | BIGINT | 사용자 | NN |
 
 ## 사용자 수행 흐름도
 
