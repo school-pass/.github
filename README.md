@@ -94,4 +94,4 @@
 
 ## Preview
 
-### [Github.io 페이지](https://school-pass.github.io/schoolpass.github.io/)https://school-pass.github.io/schoolpass.github.io/)
+### [Github.io 페이지](https://school-pass.github.io/schoolpass.github.io/)
