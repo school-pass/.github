@@ -4,14 +4,14 @@
 > 기존의 방식을 개선하고 보완한 새로운 경북소프트웨어고등학교만의 출입증 관리 시스템을 구축합니다.
 
 ## 프로젝트 개요
-### 개발 동기
+### 프로젝트 주제 및 선정 배경
 학교에는 정말 많은 특수실이 존재하고 이 외에도 기숙사와 같은 공간의 경우 출입 시 안전상의 이유로 학생과 선생님이 동반해야 출입을 할 수 있다는 단점이 존재하였고, 이를 해결하기 위해 프로젝트를 진행하게 되었습니다.
-### 개발 목표
+### 개발 및 수행 목표
 학생과 교사 모두에게 편의성과 직관성을 제공하는 것이 최종적인 목표입니다.
 
 ## Member
-* 최근호 - (팀장), 디자인, 백엔드 | <a href="https://github.com/cghsuw256" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-* 장휴선 - (팀원), 프론트 | <a href="https://github.com/rongtutu" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+* 최근호 - (팀장), 디자인, 백엔드 | c66182527@gmail.com | <a href="https://github.com/cghsuw256" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+* 장휴선 - (팀원), 프론트 | hyuseonj771@gmail.com | <a href="https://github.com/rongtutu" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
 ## To be used
 
