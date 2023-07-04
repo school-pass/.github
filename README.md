@@ -5,16 +5,13 @@
 
 ## 프로젝트 개요
 ### 개발 동기
-기숙형 학교인 저희 학교는 학교 외에 기숙사에도 상벌점 제도가 있으며 이를 관리하는 것은 전부 수기, Excel 등의 방법을 사용하였으며 조금 더 편하게 관리하면 좋겠다 생각해서 진행하게 되었습니다.
+학교에는 정말 많은 특수실이 존재하고 이 외에도 기숙사와 같은 공간의 경우 출입 시 안전상의 이유로 학생과 선생님이 동반해야 출입을 할 수 있다는 단점이 존재하였고, 이를 해결하기 위해 프로젝트를 진행하게 되었습니다.
 ### 개발 목표
-데스크탑과 모바일 두 환경에서 모두 실행가능한 기존 상벌점 시스템보다 나은 환경을 목표로 합니다.
+학생과 교사 모두에게 편의성과 직관성을 제공하는 것이 최종적인 목표입니다.
 
 ## Member
-* 김진효 - (팀장), 프론트 및 총괄 | <a href="https://github.com/jinhyo-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-* 변예준 - 디자인, 프론트 | <a href="https://github.com/yejun178" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-* 최근호 - 디자인, 백엔드 | <a href="https://github.com/cghsuw256" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-* 임동주 - 백엔드(api), 프론트 | <a href="https://github.com/DocRAID" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-* 김성현 - 인프라(aws), 백엔드 | <a href="https://github.com/HYUN-8265" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+* 최근호 - (팀장), 디자인, 백엔드 | <a href="https://github.com/cghsuw256" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+* 장휴선 - (팀원), 프론트 | <a href="https://github.com/rongtutu" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
 ## To be used
 
