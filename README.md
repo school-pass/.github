@@ -20,7 +20,7 @@
 
 | 분야 | 메이커 |  | 사용목적 |
 | ------------- | ---------------------- | -------------------------- | ---------------- |
-| Frontend  | 장휴선 | <a href="https://ko.legacy.reactjs.org/"><img src="https://img.shields.io/badge/React-3880FF?style=flat-square&logo=Ionic&logoColor=white"/></a> | 모바일의 프론트를 담당합니다. |
+| Frontend  | 장휴선 | <a href="https://ko.legacy.reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=Ionic&logoColor=white"/></a> | 모바일의 프론트를 담당합니다. |
 | Server | 최근호 | <a href="https://docs.aws.amazon.com/"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a> | 배포와 서비스를 위한 서버를 담당합니다. |
 | API | 최근호 |  <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a>, actix [https://actix.rs]| 프로젝트에 필요한 서비스를 구현합니다. |
 | DBA | 최근호  | <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a> | 정보를 저장하기 위해 사용합니다. |
@@ -28,18 +28,14 @@
 
 ## Skills
 <a href=""><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a>
-<a href="https://ionicframework.com/"><img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=Ionic&logoColor=white"/></a>
-<a href="https://tauri.app/ko/"><img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white"/></a>
 <a href="https://docs.aws.amazon.com/"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/></a>
-<a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>
-<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/></a>
-<a href="https://nestjs.com/"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"/></a>
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySql&logoColor=white"/></a>
+<a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/SpringBoot-?style=for-the-badge&logo=MySql&logoColor=white"/></a>
 
 ## 프로젝트 진행
- + 프로젝트 구상과 팀원 역할 분배(2022년 7월 초 ~ 7월 말)
- + 프론트 UI/UX 구현 및 백엔드 Restful API 개발(2022년 8월 초 ~ 11월 초)
- + Ionic 프레임워크와 Tauri를 이용해 각각 웹앱과 앱으로 변환(11월 초 ~ 현재)
+ + 프로젝트 구상과 팀원 역할 분배(2023년 3월 초 ~ 3월 말)
+ + 프론트 UI/UX 구현 및 백엔드 Restful API 개발(2022년 4월 초 ~ 7월 초)
+ + 변경된 요구사항 반영 및 안정화 작업(7월 초 ~ 현재)
 
 ## 프로젝트 상세 소개
 
