@@ -86,7 +86,7 @@
 
 ## 사용자 수행 흐름도
 
-<img src="https://www.figma.com/file/FIo6It3bjF7UTDfZ6jCjKd/Untitled?type=whiteboard&node-id=875-1085&t=7ljaHrq9J8DqtkW3-4" />
+<img width="327" alt="화면 캡처 2023-07-01 003500" src="https://github.com/school-pass/.github/assets/83445334/a6c7fe40-41de-4939-be34-d10047bec520">
 
 ## Preview
 
