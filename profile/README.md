@@ -10,8 +10,8 @@
 학생과 교사 모두에게 편의성과 직관성을 제공하는 것이 최종적인 목표입니다.
 
 ## Member
-| 최근호 - (팀장), 디자인, 백엔드 | c66182527@gmail.com | <a href="https://github.com/cghsuw256" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>|
-| 장휴선 - (팀원), 프론트 | hyuseonj771@gmail.com | <a href="https://github.com/rongtutu" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>|
+* 최근호 - (팀장), 디자인, 백엔드 | c66182527@gmail.com | <a href="https://github.com/cghsuw256" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+* 장휴선 - (팀원), 프론트 | hyuseonj771@gmail.com | <a href="https://github.com/rongtutu" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
 
 ## To be used
@@ -89,6 +89,12 @@
 
 <img width="3312" alt="schoolpass" src="https://github.com/school-pass/.github/assets/83445334/66015d28-f8b0-462f-9268-43c329b24333">
 
-## Preview
+## 프로젝트 추진 결과
+### 수행 과정 및 결과 분석
+> 초기 계획과 달리 상당 부분 변경점이 있었고, 이로 인해 DB 구조가 바뀌고 UI/UX도 바꾸는 등의 여러 에로 사항이 생겼지만 백엔드의 경우 기본적인 기능 구현이 모두 성공적으로 끝났고 프론트의 경우는 기술 스택이 개발 도중 여러번 바뀌며 완성시키지 못하였다.
 
+### 유지 보수 계획
+AWS를 프로젝트에 사용한 만큼 유지 보수 중 유지는 해결되었다 생각된다. 또한, 보수의 부분도 Github의 코드를 업로드 후 clone 하는 방식으로 지속적인 에러 수정 및 관찰을 할 생각이다.
+
+## 레이아웃 등 더 알아보기
 ### [Github.io 페이지](https://school-pass.github.io/schoolpass.github.io/)
