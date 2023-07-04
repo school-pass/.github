@@ -10,8 +10,9 @@
 학생과 교사 모두에게 편의성과 직관성을 제공하는 것이 최종적인 목표입니다.
 
 ## Member
-* 최근호 - (팀장), 디자인, 백엔드 | c66182527@gmail.com | <a href="https://github.com/cghsuw256" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-* 장휴선 - (팀원), 프론트 | hyuseonj771@gmail.com | <a href="https://github.com/rongtutu" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+| 최근호 - (팀장), 디자인, 백엔드 | c66182527@gmail.com | <a href="https://github.com/cghsuw256" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>|
+| 장휴선 - (팀원), 프론트 | hyuseonj771@gmail.com | <a href="https://github.com/rongtutu" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>|
+
 
 ## To be used
 
