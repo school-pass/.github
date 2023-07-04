@@ -86,7 +86,7 @@
 
 ## 사용자 수행 흐름도
 
-<img width="327" alt="화면 캡처 2023-07-01 003500" src="https://github.com/school-pass/.github/assets/83445334/a6c7fe40-41de-4939-be34-d10047bec520">
+<img width="3312" alt="schoolpass" src="https://github.com/school-pass/.github/assets/83445334/66015d28-f8b0-462f-9268-43c329b24333">
 
 ## Preview
 
