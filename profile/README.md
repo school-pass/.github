@@ -86,7 +86,7 @@
 
 ## 사용자 수행 흐름도
 
-<img src="https://cdn.discordapp.com/attachments/408947039486083072/1056855354505449572/IMG_4658.png" />
+<img src="https://www.figma.com/file/FIo6It3bjF7UTDfZ6jCjKd/Untitled?type=whiteboard&node-id=875-1085&t=7ljaHrq9J8DqtkW3-4" />
 
 ## Preview
 
